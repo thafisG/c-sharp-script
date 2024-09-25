@@ -1,4 +1,4 @@
-# Degustação de Chá às Escuras
+# Degustação de Chá
 
 Degustação de chá às escuras é a habilidade de identificar um chá usando apenas seus sentidos do olfato e paladar.
 
