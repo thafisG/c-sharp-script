@@ -9,7 +9,7 @@ class URI {
         
         double salarioTotalFuncionario = salarioDoFuncionario * horasTrabalhadas;
         
-        Console.WriteLine($"NUMBER = {numero}\nSALARY = U$ {salarioTotalFuncionario}");
+        Console.WriteLine($"NUMBER = {numero}\nSALARY = U$ {salarioTotalFuncionario:F2}");
         
         
 
